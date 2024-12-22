@@ -54,4 +54,15 @@ export const projects = [
         date: '1 month ago',
         githubUrl: 'https://github.com/Shadosxnover/My-Todo-app',
     },
+    {
+        id: '6',
+        title: 'Recipe Finder App',
+        description: 'Recipe Finder App is a user-friendly app that allows users to search for recipes based on their preferences, ingredients, and dietary restrictions. It provides a convenient way to find delicious and healthy meals.',
+        thumbnail: '/assets/thumbnails/recipe-finder.png',
+        videoUrl: 'https://www.youtube.com/embed/OPRc1bLU0w4',
+        views: '1.3K',
+        likes: 98,
+        date: '1 month ago',
+        githubUrl: 'https://github.com/Shadosxnover/Recipe-app',
+    },
 ];
